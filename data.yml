@@ -1,0 +1,18 @@
+---
+array1:
+- 1
+- 2
+- 3
+- Hola
+- Mundo
+hash1:
+  :name: Alexis Kevin
+  :lastname: De la Hoz
+  :age: 42
+  :job: Programmer
+array1_timestamp: 2018-04-12 11:13:23.211416000 -05:00
+hash1_timestamp: 2018-04-12 11:13:35.769243000 -05:00
+string1: Esta es una prueba
+string1_timestamp: 2018-04-12 11:13:51.032491000 -05:00
+test1: Esta es una prueba
+test1_timestamp: 2018-04-12 11:15:14.687545000 -05:00
